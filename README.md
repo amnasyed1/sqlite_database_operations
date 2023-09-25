@@ -1,7 +1,7 @@
 # sqlite_database_operations
 
   ## Dataset
-The datasets I utilized are from Stony Brook Hospital and St. Joseph Hospital. Both datasets contain data reguarding billing/charges, codes, prices, insurance company information, and descriptions such as description of charges, and description of codes. 
+The datasets I utilized are from Stony Brook Hospital and St. Joseph Hospital. Both datasets contain data reguarding billing/charges, codes, prices, insurance information, and descriptions such as description of charges, and description of codes. 
   ## Exploratory Data Analysis(EDA) Process
 I preformed basic exploratory analysis using python, focusing on missing values, basic statistics and data distribution. The values in the datasets that were marked as NaN, were dropped to clean up and provide a more accurate view of the dataset. I also preformed basic statistics for the datasets, such as utilizing the commands ``` .value_counts()```  and ``` .describe()``` . For the data distribution aspect of EDA, I created histograms to visualize the numerical data values and frequencies. 
   ## Instructions to Replicate my SQLite Database Setup
